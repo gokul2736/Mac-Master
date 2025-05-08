@@ -69,3 +69,9 @@ This tool is meant for **ethical hacking** and **learning purposes** only. **Mac
 **Misuse can lead to legal consequences. Use responsibly.**
 
 ---
+
+
+
+
+
+# **Aircrack-ng** suite for advanced attacks (if using Evil Twin/Deauth
